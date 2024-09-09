@@ -1,4 +1,4 @@
-### **Busca Rápida de Jogadores do Mengão! ⚫**
+### **Busca Rápida de Jogadores do Mengão! - Imersão Dev com Google Gemini ⚫**
 
 **O que faz essa aplicação?**
 
