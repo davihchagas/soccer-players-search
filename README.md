@@ -1,43 +1,42 @@
-### **Busca Rápida de Jogadores do Mengão! - Imersão Dev com Google Gemini ⚫**
+### **Quick Search for Mengão Players! - Dev Immersion with Google Gemini ⚫**  
 
-**O que faz essa aplicação?**
+**What does this application do?**  
 
-Imagina você, torcedor apaixonado pelo Flamengo, querendo saber mais sobre aquele seu jogador favorito ou sobre uma posição específica do time. Com essa aplicação, você digita o nome ou a posição e pronto! A mágica acontece: uma lista com todos os jogadores que batem com a sua pesquisa aparece na tela. É rápido, fácil e te mantém sempre por dentro do Mengão!
+Imagine yourself, a passionate Flamengo fan, wanting to know more about your favorite player or a specific position on the team. With this application, you just type the name or position, and voilà! The magic happens: a list of all players matching your search appears on the screen. It’s quick, easy, and keeps you updated on Mengão!  
 
-**Como funciona?**
+**How does it work?**  
 
-1. **Digite e pesquise:** Você digita o que quer buscar (nome do jogador, posição, etc.) no campo de pesquisa.
-2. **Resultados na hora:** A aplicação vasculha um banco de dados com informações sobre os jogadores e te mostra os resultados que combinam com a sua pesquisa.
-3. **Mais detalhes:** Para cada jogador encontrado, você encontra o nome, uma breve descrição e um link para mais informações (se disponível).
+1. **Type and search:** Enter what you want to search for (player name, position, etc.) in the search field.  
+2. **Instant results:** The application scans a database with player information and shows you the matching results.  
+3. **More details:** For each player found, you’ll see their name, a brief description, and a link for more information (if available).  
 
-**Tecnologias utilizadas:**
+**Technologies used:**  
 
-* **HTML:** A estrutura básica da página, onde tudo acontece.
-* **CSS:** Deixa a aplicação com uma cara bonita e organizada.
-* **JavaScript:** A inteligência por trás da aplicação, responsável por fazer a busca e mostrar os resultados.
+* **HTML:** The basic structure of the page, where everything happens.  
+* **CSS:** Makes the application look visually appealing and well-organized.  
+* **JavaScript:** The intelligence behind the application, responsible for performing the search and displaying the results.  
 
-**Para que serve?**
+**What is it for?**  
 
-* **Torcedores:** A forma mais rápida de encontrar informações sobre os jogadores do Flamengo.
-* **Desenvolvedores:** Um exemplo simples de como criar uma aplicação com busca e filtragem de dados.
+* **Fans:** The fastest way to find information about Flamengo players.  
+* **Developers:** A simple example of how to create an application with search and data filtering.  
 
-**Como usar?**
+**How to use it?**  
 
-1. **Clone o repositório:** Use o comando `git clone https://github.com/seu-usuario/sua-aplicacao.git` para baixar o código.
-2. **Abra o arquivo index.html:** Você pode abrir o arquivo diretamente no seu navegador ou usar um servidor local.
-3. **Comece a pesquisar:** Divirta-se buscando seus jogadores favoritos!
+1. **Clone the repository:** Use the command `git clone https://github.com/your-username/your-application.git` to download the code.  
+2. **Open the index.html file:** You can open the file directly in your browser or use a local server.  
+3. **Start searching:** Have fun looking up your favorite players!  
 
-**Observações:**
+**Notes:**  
 
-* **Banco de dados:** A aplicação usa um arquivo JavaScript simples (dados.js) para armazenar as informações dos jogadores. Você pode personalizar esse arquivo com os dados que quiser.
-* **Melhorias futuras:** Quem sabe adicionar mais funcionalidades, como:
-    * **Filtros:** Permitir filtrar os resultados por posição, nacionalidade, etc.
-    * **Detalhes:** Mostrar mais informações sobre cada jogador, como idade, altura, etc.
-    * **Gráficos:** Criar gráficos com estatísticas dos jogadores.
+* **Database:** The application uses a simple JavaScript file (`data.js`) to store player information. You can customize this file with any data you want.  
+* **Future improvements:** Perhaps adding more features, such as:  
+    * **Filters:** Allow filtering results by position, nationality, etc.  
+    * **Details:** Show more information about each player, such as age, height, etc.  
+    * **Charts:** Create graphs with player statistics.  
 
-**Vamos juntos fazer essa aplicação ainda melhor!** Se você tiver alguma sugestão ou quiser contribuir com o código, fique à vontade para abrir um pull request.
+**Let’s work together to make this application even better!** If you have any suggestions or want to contribute to the code, feel free to open a pull request.  
 
-**E aí, curtiu?** ⚫
+**So, did you like it?** ⚫  
 
-**#Flamengo #Programação #JavaScript #HTML #CSS**
-
+**#Flamengo #Programming #JavaScript #HTML #CSS**  
